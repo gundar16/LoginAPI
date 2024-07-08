@@ -1,0 +1,6 @@
+# .NET
+*.obj
+*.exe
+*.dll
+bin/
+obj/

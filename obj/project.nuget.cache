@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "WredhNKd7+IXuBLK0uRzJs6matLM76Mgcj3us3U+wbggOtV3KFlXxoPyJrP/xIajX/LyuZAPsUFK14lma7pdYA==",
+  "dgSpecHash": "UC0gc0vrpXRyQk2o4qS6zbl497MQuMZAp8hgiN7nkjsZC19ZH2O/MPEbYJuk8XcAQRCZqm2LFpTV/3v14n6TAQ==",
   "success": true,
   "projectFilePath": "D:\\WebsiteProject\\LoginAPI\\LoginAPI\\LoginAPI.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\pedro\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
     "C:\\Users\\pedro\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.6\\microsoft.aspnetcore.openapi.8.0.6.nupkg.sha512",
     "C:\\Users\\pedro\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\pedro\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
